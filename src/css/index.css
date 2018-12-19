@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body,html{
+    /* background: #ff0; */
+    font-size: 20px;
+}
+#img1{
+    background: url('../images/1.png') 0 0 no-repeat;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-size: 100% 100%;
+}
+.ddd{
+    width: 200px;
+    height: 200px;
+}
