@@ -2,4 +2,4 @@
 /*!***********************!*\
   !*** ./src/entry2.js ***!
   \***********************/
-/*! no static exports found */function(module,exports,__webpack_require__){"use strict";eval("\n\n//# sourceURL=webpack:///./src/entry2.js?")}});
+/*! no static exports found */function(module,exports,__webpack_require__){"use strict";eval('\n\nvar aa = "Mr.chen 版权所有";\nconsole.log(aa);\n\n//# sourceURL=webpack:///./src/entry2.js?')}});

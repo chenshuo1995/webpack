@@ -146,6 +146,7 @@ module.exports = {
             // filename: "/css/styles.css",
             chunkFilename: "[id].css"
         }),
+        //css压缩
         new OptimizeCssAssetsPlugin(),
         //除去未使用css
         // new PurifyCSSPlugin({
